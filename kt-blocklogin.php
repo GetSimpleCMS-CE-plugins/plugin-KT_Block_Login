@@ -21,7 +21,7 @@
 			'2.1',
 			'MWK, islander',
 			'http://get-simple.info/extend/',
-			'Block an IP adress after 3 failed login attempts from login for 1 hour.',
+			'Block an IP address after 3 failed login attempts from login for 1 hour.',
 			'plugins',
 			'kt_blocklogin_display'
 	);
