@@ -20,7 +20,7 @@
 			'KT Block Login',
 			'2.1',
 			'MWK, islander',
-			'http://get-simple.info/extend/',
+			'https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login',
 			'Block an IP address after 3 failed login attempts from login for 1 hour.',
 			'plugins',
 			'kt_blocklogin_display'
