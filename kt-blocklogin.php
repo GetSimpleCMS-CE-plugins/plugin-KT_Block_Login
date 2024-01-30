@@ -22,7 +22,7 @@
 			'MWK, islander',
 			'https://github.com/GetSimpleCMS-CE-plugins/plugin-KT_Block_Login',
 			'Block an IP address after 3 failed login attempts from login for 1 hour.',
-			'plugins',
+			'support',
 			'kt_blocklogin_display'
 	);
 
@@ -41,6 +41,6 @@
 	}
 
 	add_action('successful-login-start', 'ktblockip');
-	add_action('plugins-sidebar','createSideMenu',array($ktpluginid,'IP Blocker'));
+	add_action('support-sidebar','createSideMenu',array($ktpluginid,'IP Blocker'));
 
 ?>
